@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Using Library
-Jitsi IFrame Api: https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe
+Jitsi IFrame Api: https://jitsi.github.io/handbook/docs/dev-guide/dev-guide-iframe <br />
 react-jitsi: https://www.npmjs.com/package/react-jitsi
 
 
